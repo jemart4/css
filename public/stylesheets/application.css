@@ -9,6 +9,10 @@ p{
 
 /* #grogu{}   this is how would find ID in index page
 */
+
+h1.header{
+  font-size: larger;
+}
 .smaller{
   font-size: 15px;
 }
