@@ -1,0 +1,14 @@
+body{
+background-color: aquamarine;
+}
+
+p{
+  color: purple;
+  font-size: 30px;
+}
+
+/* #grogu{}   this is how would find ID in index page
+*/
+.smaller{
+  font-size: 15px;
+}
